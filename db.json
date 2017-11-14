@@ -8,20 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": [{
-    "id": 1, 
-    "name": "typicode",
-    "age": 31
-  },
-   {
-    "id": 2, 
-    "name": "Mike",
-    "age": 35
-  },
- {
-    "id": 1, 
-    "name": "Dan",
-    "age": 55
-  } 
+  "profile": [
+      {"id": 1, "name": "typicode","age": 3 },
+      {"id": 2, "name": "Mike","age": 35},
+      {"id": 1, "name": "Dan","age": 5 } 
   ]
 }
